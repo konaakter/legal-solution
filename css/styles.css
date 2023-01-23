@@ -1,5 +1,6 @@
 .header-sectoin{
     background-image: url(../images/banner.png),url(../images/Rectangle\ 5.png); 
     background-blend-mode: multiply;
-    height: 80vh;
+    background-repeat: no-repeat;
+    height: 85vh;
 }
