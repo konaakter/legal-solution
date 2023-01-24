@@ -4,3 +4,21 @@
     background-repeat: no-repeat;
     height: 85vh;
 }
+.cilent-carosel-img-1{
+    background-image: url(../img/slider-1.jpg),url(../images/Rectangle\ 7.png);  
+    background-blend-mode: multiply;
+    height: 80vh;
+
+}
+.cilent-carosel-img-2{
+    background-image: url(../img/slider-2.jpg),url(../images/Rectangle\ 7.png);
+    background-blend-mode: multiply;
+    height: 80vh;
+    background-position: center;
+}
+.cilent-carosel-img-3{
+    background-image: url(../img/slider-3.jpg),url(../images/Rectangle\ 7.png);
+    background-blend-mode: multiply;
+    background-size: cover;
+    height: 80vh;
+}
