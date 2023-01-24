@@ -1,3 +1,6 @@
+*{
+   font-family: 'EB Garamond', serif;
+}
 .header-sectoin{
     background-image: url(../images/banner.png),url(../images/Rectangle\ 5.png); 
     background-blend-mode: multiply;
