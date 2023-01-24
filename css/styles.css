@@ -2,7 +2,7 @@
     background-image: url(../images/banner.png),url(../images/Rectangle\ 5.png); 
     background-blend-mode: multiply;
     background-repeat: no-repeat;
-    height: 85vh;
+    height: 100vh;
 }
 .cilent-carosel-img-1{
     background-image: url(../img/slider-1.jpg),url(../images/Rectangle\ 7.png);  
@@ -28,4 +28,7 @@
 }
 .text-decoratoin-none{
     text-decoration: none;
+}
+.card-3{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
 }
